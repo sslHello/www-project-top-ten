@@ -1,2 +1,2 @@
-This test readme has been created in  {{< year >}}
+This test readme has been created in  {{< year >}}.
 
